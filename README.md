@@ -2,7 +2,7 @@ TOOLNIVA AI
 
 Connect. Automate. Accomplish.
 
-TOOLNIVA is a proposed MCP-powered intelligent workflow assistant designed to connect multiple digital applications and simplify everyday tasks through natural language instructions.
+TOOLNIVA AI is a proposed MCP-powered intelligent workflow assistant designed to connect multiple digital applications and simplify everyday tasks through natural language instructions.
 
 Problem Statement
 
@@ -10,7 +10,7 @@ Users often switch between different applications such as email, calendars and c
 
 Proposed Solution
 
-TOOLNIVA aims to provide a single interface where users can interact with multiple applications using natural language commands, powered by the Model Context Protocol (MCP).
+TOOLNIVA AI aims to provide a single interface where users can interact with multiple applications using natural language commands, powered by the Model Context Protocol (MCP).
 
 Planned Features
 
